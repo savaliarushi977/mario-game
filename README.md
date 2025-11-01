@@ -61,6 +61,20 @@ pip install pygame
 ## 🎮 How to Play
 
 ### Starting the Game
+
+**Easy Way (Recommended):**
+
+Mac/Linux:
+```bash
+./run.sh
+```
+
+Windows:
+```bash
+run.bat
+```
+
+**Manual Way:**
 ```bash
 python3 mario_game.py
 ```
